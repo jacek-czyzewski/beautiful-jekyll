@@ -72,7 +72,7 @@ author:
 social-network-links:
   rss: true
   email: "jacek.czyzewski@o2.pl"
-  facebook: dgt01
+# facebook: dgt01
   github: jacek-czyzewski
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -91,7 +91,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
