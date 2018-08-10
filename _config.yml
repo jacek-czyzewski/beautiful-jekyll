@@ -24,6 +24,7 @@ description: Jacek Czyżewski - personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Shiny: "shiny"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
