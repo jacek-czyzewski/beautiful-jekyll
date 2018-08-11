@@ -3,4 +3,4 @@ layout: page
 subtitle: "Some of my shiny apps"
 ---
 
-<iframe src="http://dgt.space/shiny/SpotifyDataStats/" style="border:none;width:1000px;height:500px;"></iframe>
+<a href="http://dgt.space/shiny/SpotifyDataStats/"><img src="img/SpotifyDataStats.png"></a>
